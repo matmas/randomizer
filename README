@@ -1,13 +1,13 @@
 * About 
 
-This is a GAE tool for conducting online experiments; it lets you
+This is a Heroku tool for conducting online experiments; it lets you
 provide one URL to experimental subjects---they will be redirected at
 random to the two or more "treatment group" URLs that you specify.
 
 
 * To use: 
   * Change jjhecon/randomizer/settings.py BASE_URL to your app 
-  * Visit http://<your app engine name>.appspot.com/r/.html/
+  * Visit http://<your app engine name>.herokuapp.com/r/.html/
 
 * License
 
