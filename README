@@ -7,7 +7,7 @@ random to the two or more "treatment group" URLs that you specify.
 
 * To use: 
   * Change jjhecon/randomizer/settings.py BASE_URL to your app 
-  * Visit http://<your app engine name>.herokuapp.com/r/.html/
+  * Visit http://<your heroku app name>.herokuapp.com/r/.html/
 
 * License
 
